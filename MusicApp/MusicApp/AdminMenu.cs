@@ -26,7 +26,9 @@ namespace MusicApp
 
         private void Songs_Click(object sender, EventArgs e)
         {
-
+            SongsAdmin sa = new SongsAdmin();
+            sa.Show();
+            this.Hide();
         }
 
         private void LogOut_Click(object sender, EventArgs e)
