@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Data.SqlClient;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -12,6 +13,7 @@ namespace MusicApp
 {
     public partial class Login : Form
     {
+        public SqlConnection connectionString = new SqlConnection("Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\\MusicAppDb.mdf;Integrated Security=True;Connect Timeout=30");
         public Login()
         {
             InitializeComponent();
@@ -26,12 +28,30 @@ namespace MusicApp
 
         private void btnLogin_Click(object sender, EventArgs e)
         {
-            if(txtPasswordLog.Text.Equals("admin") && txtUsernameLog.Text.Equals("admin"))
+            string password = txtPasswordLog.Text;
+            string username = txtUsernameLog.Text;
+
+            try
             {
-                AdminMenu am = new AdminMenu();
-                am.Show();
-                this.Hide();
+                if (username.Equals("admin") && password.Equals("admin"))
+                {
+                    AdminMenu am = new AdminMenu();
+                    am.Show();
+                    this.Hide();
+                }
+                else
+                {
+                    UserMenu um = new UserMenu();
+                    um.Show();
+                    this.Hide();
+                }
+            }
+            catch
+            {
+                MessageBox.Show("err");
             }
         }
+
+        
     }
 }
