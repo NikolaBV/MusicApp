@@ -28,28 +28,69 @@ namespace MusicApp
 
         private void btnLogin_Click(object sender, EventArgs e)
         {
+
             string password = txtPasswordLog.Text;
             string username = txtUsernameLog.Text;
 
-            try
+            string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\\MusicAppDb.mdf;Integrated Security=True;Connect Timeout=30;";
+
+            using (SqlConnection connection = new SqlConnection(connectionString))
             {
-                if (username.Equals("admin") && password.Equals("admin"))
+                connection.Open();
+
+                // Replace the table name and column names with your own
+                string query = "SELECT * FROM [User] WHERE Username=@Username AND Password=@Password";
+                SqlCommand command = new SqlCommand(query, connection);
+                command.Parameters.AddWithValue("@Username", username);
+                command.Parameters.AddWithValue("@Password", password);
+
+                SqlDataReader reader = command.ExecuteReader();
+
+                if (reader.HasRows)
                 {
-                    AdminMenu am = new AdminMenu();
-                    am.Show();
-                    this.Hide();
+                    if (username == "admin" && password == "admin")
+                    {
+                        // Log in as an admin
+                        AdminMenu am = new AdminMenu();
+                        am.Show();
+                        this.Hide();
+                    }
+                    else
+                    {
+                        UserMenu um = new UserMenu();
+                        um.Show();
+                        this.Hide();
+                    }
                 }
+                
                 else
                 {
-                    UserMenu um = new UserMenu();
-                    um.Show();
-                    this.Hide();
+                    MessageBox.Show("Incorrect credentials! Register or try to login again!");
                 }
+                /*
+                try
+                {
+                    if (username.Equals("admin") && password.Equals("admin"))
+                    {
+                        AdminMenu am = new AdminMenu();
+                        am.Show();
+                        this.Hide();
+                    }
+                    else
+                    {
+                        UserMenu um = new UserMenu();
+                        um.Show();
+                        this.Hide();
+                    }
+                }
+                catch
+                {
+                    MessageBox.Show("err");
+                }
+                */
+
             }
-            catch
-            {
-                MessageBox.Show("err");
-            }
+
         }
 
         

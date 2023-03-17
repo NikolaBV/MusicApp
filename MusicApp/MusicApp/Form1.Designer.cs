@@ -41,49 +41,55 @@
             // 
             this.musicLabel.AutoSize = true;
             this.musicLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.musicLabel.Location = new System.Drawing.Point(168, 84);
+            this.musicLabel.Location = new System.Drawing.Point(126, 68);
+            this.musicLabel.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.musicLabel.Name = "musicLabel";
-            this.musicLabel.Size = new System.Drawing.Size(172, 32);
+            this.musicLabel.Size = new System.Drawing.Size(136, 26);
             this.musicLabel.TabIndex = 0;
             this.musicLabel.Text = "Music Shop";
             // 
             // txtUsernameLog
             // 
-            this.txtUsernameLog.Location = new System.Drawing.Point(109, 189);
+            this.txtUsernameLog.Location = new System.Drawing.Point(82, 154);
+            this.txtUsernameLog.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.txtUsernameLog.Name = "txtUsernameLog";
-            this.txtUsernameLog.Size = new System.Drawing.Size(156, 22);
+            this.txtUsernameLog.Size = new System.Drawing.Size(118, 20);
             this.txtUsernameLog.TabIndex = 1;
             // 
             // txtPasswordLog
             // 
-            this.txtPasswordLog.Location = new System.Drawing.Point(109, 231);
+            this.txtPasswordLog.Location = new System.Drawing.Point(82, 188);
+            this.txtPasswordLog.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.txtPasswordLog.Name = "txtPasswordLog";
-            this.txtPasswordLog.Size = new System.Drawing.Size(156, 22);
+            this.txtPasswordLog.Size = new System.Drawing.Size(118, 20);
             this.txtPasswordLog.TabIndex = 2;
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(27, 194);
+            this.label1.Location = new System.Drawing.Point(20, 158);
+            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(70, 16);
+            this.label1.Size = new System.Drawing.Size(55, 13);
             this.label1.TabIndex = 3;
             this.label1.Text = "Username";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(30, 236);
+            this.label2.Location = new System.Drawing.Point(22, 192);
+            this.label2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(67, 16);
+            this.label2.Size = new System.Drawing.Size(53, 13);
             this.label2.TabIndex = 4;
             this.label2.Text = "Password";
             // 
             // btnLogin
             // 
-            this.btnLogin.Location = new System.Drawing.Point(190, 287);
+            this.btnLogin.Location = new System.Drawing.Point(142, 233);
+            this.btnLogin.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnLogin.Name = "btnLogin";
-            this.btnLogin.Size = new System.Drawing.Size(75, 23);
+            this.btnLogin.Size = new System.Drawing.Size(56, 19);
             this.btnLogin.TabIndex = 5;
             this.btnLogin.Text = "Login";
             this.btnLogin.UseVisualStyleBackColor = true;
@@ -92,18 +98,19 @@
             // lblRegister
             // 
             this.lblRegister.AutoSize = true;
-            this.lblRegister.Location = new System.Drawing.Point(333, 361);
+            this.lblRegister.Location = new System.Drawing.Point(250, 293);
+            this.lblRegister.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblRegister.Name = "lblRegister";
-            this.lblRegister.Size = new System.Drawing.Size(58, 16);
+            this.lblRegister.Size = new System.Drawing.Size(46, 13);
             this.lblRegister.TabIndex = 6;
             this.lblRegister.Text = "Register";
             this.lblRegister.Click += new System.EventHandler(this.Register_Click);
             // 
             // Login
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(504, 403);
+            this.ClientSize = new System.Drawing.Size(378, 327);
             this.Controls.Add(this.lblRegister);
             this.Controls.Add(this.btnLogin);
             this.Controls.Add(this.label2);
@@ -111,6 +118,7 @@
             this.Controls.Add(this.txtPasswordLog);
             this.Controls.Add(this.txtUsernameLog);
             this.Controls.Add(this.musicLabel);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "Login";
             this.Text = "Login";
             this.ResumeLayout(false);

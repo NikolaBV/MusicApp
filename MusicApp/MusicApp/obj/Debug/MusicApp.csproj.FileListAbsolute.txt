@@ -1,60 +1,61 @@
-E:\Programming\MusicApp\MusicApp\MusicApp\bin\Debug\MusicAppDb.mdf
-E:\Programming\MusicApp\MusicApp\MusicApp\bin\Debug\MusicAppDb_log.ldf
-E:\Programming\MusicApp\MusicApp\MusicApp\bin\Debug\MusicApp.exe.config
-E:\Programming\MusicApp\MusicApp\MusicApp\bin\Debug\MusicApp.exe
-E:\Programming\MusicApp\MusicApp\MusicApp\bin\Debug\MusicApp.pdb
-E:\Programming\MusicApp\MusicApp\MusicApp\bin\Debug\AngleSharp.dll
-E:\Programming\MusicApp\MusicApp\MusicApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
-E:\Programming\MusicApp\MusicApp\MusicApp\bin\Debug\Microsoft.Win32.Registry.dll
-E:\Programming\MusicApp\MusicApp\MusicApp\bin\Debug\NAudio.Asio.dll
-E:\Programming\MusicApp\MusicApp\MusicApp\bin\Debug\NAudio.Core.dll
-E:\Programming\MusicApp\MusicApp\MusicApp\bin\Debug\NAudio.dll
-E:\Programming\MusicApp\MusicApp\MusicApp\bin\Debug\NAudio.Midi.dll
-E:\Programming\MusicApp\MusicApp\MusicApp\bin\Debug\NAudio.Wasapi.dll
-E:\Programming\MusicApp\MusicApp\MusicApp\bin\Debug\NAudio.WinForms.dll
-E:\Programming\MusicApp\MusicApp\MusicApp\bin\Debug\NAudio.WinMM.dll
-E:\Programming\MusicApp\MusicApp\MusicApp\bin\Debug\System.Buffers.dll
-E:\Programming\MusicApp\MusicApp\MusicApp\bin\Debug\System.Memory.dll
-E:\Programming\MusicApp\MusicApp\MusicApp\bin\Debug\System.Numerics.Vectors.dll
-E:\Programming\MusicApp\MusicApp\MusicApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
-E:\Programming\MusicApp\MusicApp\MusicApp\bin\Debug\System.Security.AccessControl.dll
-E:\Programming\MusicApp\MusicApp\MusicApp\bin\Debug\System.Security.Principal.Windows.dll
-E:\Programming\MusicApp\MusicApp\MusicApp\bin\Debug\System.Text.Encoding.CodePages.dll
-E:\Programming\MusicApp\MusicApp\MusicApp\bin\Debug\System.Text.Encodings.Web.dll
-E:\Programming\MusicApp\MusicApp\MusicApp\bin\Debug\System.Text.Json.dll
-E:\Programming\MusicApp\MusicApp\MusicApp\bin\Debug\System.Threading.Tasks.Extensions.dll
-E:\Programming\MusicApp\MusicApp\MusicApp\bin\Debug\System.ValueTuple.dll
-E:\Programming\MusicApp\MusicApp\MusicApp\bin\Debug\VisioForge.Core.dll
-E:\Programming\MusicApp\MusicApp\MusicApp\bin\Debug\VisioForge.Libs.dll
-E:\Programming\MusicApp\MusicApp\MusicApp\bin\Debug\VisioForge.MediaFramework.dll
-E:\Programming\MusicApp\MusicApp\MusicApp\bin\Debug\VisioForge.Types.dll
-E:\Programming\MusicApp\MusicApp\MusicApp\bin\Debug\YoutubeExplode.dll
-E:\Programming\MusicApp\MusicApp\MusicApp\bin\Debug\AngleSharp.xml
-E:\Programming\MusicApp\MusicApp\MusicApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
-E:\Programming\MusicApp\MusicApp\MusicApp\bin\Debug\Microsoft.Win32.Registry.xml
-E:\Programming\MusicApp\MusicApp\MusicApp\bin\Debug\NAudio.xml
-E:\Programming\MusicApp\MusicApp\MusicApp\bin\Debug\System.Buffers.xml
-E:\Programming\MusicApp\MusicApp\MusicApp\bin\Debug\System.Memory.xml
-E:\Programming\MusicApp\MusicApp\MusicApp\bin\Debug\System.Numerics.Vectors.xml
-E:\Programming\MusicApp\MusicApp\MusicApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
-E:\Programming\MusicApp\MusicApp\MusicApp\bin\Debug\System.Security.AccessControl.xml
-E:\Programming\MusicApp\MusicApp\MusicApp\bin\Debug\System.Security.Principal.Windows.xml
-E:\Programming\MusicApp\MusicApp\MusicApp\bin\Debug\System.Text.Encoding.CodePages.xml
-E:\Programming\MusicApp\MusicApp\MusicApp\bin\Debug\System.Text.Encodings.Web.xml
-E:\Programming\MusicApp\MusicApp\MusicApp\bin\Debug\System.Text.Json.xml
-E:\Programming\MusicApp\MusicApp\MusicApp\bin\Debug\System.Threading.Tasks.Extensions.xml
-E:\Programming\MusicApp\MusicApp\MusicApp\bin\Debug\System.ValueTuple.xml
-E:\Programming\MusicApp\MusicApp\MusicApp\bin\Debug\YoutubeExplode.xml
-E:\Programming\MusicApp\MusicApp\MusicApp\obj\Debug\MusicApp.csproj.AssemblyReference.cache
-E:\Programming\MusicApp\MusicApp\MusicApp\obj\Debug\MusicApp.csproj.SuggestedBindingRedirects.cache
-E:\Programming\MusicApp\MusicApp\MusicApp\obj\Debug\MusicApp.AdminMenu.resources
-E:\Programming\MusicApp\MusicApp\MusicApp\obj\Debug\MusicApp.Login.resources
-E:\Programming\MusicApp\MusicApp\MusicApp\obj\Debug\MusicApp.Properties.Resources.resources
-E:\Programming\MusicApp\MusicApp\MusicApp\obj\Debug\MusicApp.Register.resources
-E:\Programming\MusicApp\MusicApp\MusicApp\obj\Debug\MusicApp.SongsAdmin.resources
-E:\Programming\MusicApp\MusicApp\MusicApp\obj\Debug\MusicApp.UsersAdmin.resources
-E:\Programming\MusicApp\MusicApp\MusicApp\obj\Debug\MusicApp.csproj.GenerateResource.cache
-E:\Programming\MusicApp\MusicApp\MusicApp\obj\Debug\MusicApp.csproj.CoreCompileInputs.cache
-E:\Programming\MusicApp\MusicApp\MusicApp\obj\Debug\MusicApp.csproj.CopyComplete
-E:\Programming\MusicApp\MusicApp\MusicApp\obj\Debug\MusicApp.exe
-E:\Programming\MusicApp\MusicApp\MusicApp\obj\Debug\MusicApp.pdb
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\MusicApp\MusicApp\MusicApp\MusicApp\bin\Debug\MusicAppDb.mdf
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\MusicApp\MusicApp\MusicApp\MusicApp\bin\Debug\MusicAppDb_log.ldf
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\MusicApp\MusicApp\MusicApp\MusicApp\bin\Debug\MusicApp.exe.config
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\MusicApp\MusicApp\MusicApp\MusicApp\bin\Debug\MusicApp.exe
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\MusicApp\MusicApp\MusicApp\MusicApp\bin\Debug\MusicApp.pdb
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\MusicApp\MusicApp\MusicApp\MusicApp\bin\Debug\AngleSharp.dll
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\MusicApp\MusicApp\MusicApp\MusicApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\MusicApp\MusicApp\MusicApp\MusicApp\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\MusicApp\MusicApp\MusicApp\MusicApp\bin\Debug\NAudio.Asio.dll
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\MusicApp\MusicApp\MusicApp\MusicApp\bin\Debug\NAudio.Core.dll
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\MusicApp\MusicApp\MusicApp\MusicApp\bin\Debug\NAudio.dll
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\MusicApp\MusicApp\MusicApp\MusicApp\bin\Debug\NAudio.Midi.dll
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\MusicApp\MusicApp\MusicApp\MusicApp\bin\Debug\NAudio.Wasapi.dll
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\MusicApp\MusicApp\MusicApp\MusicApp\bin\Debug\NAudio.WinForms.dll
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\MusicApp\MusicApp\MusicApp\MusicApp\bin\Debug\NAudio.WinMM.dll
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\MusicApp\MusicApp\MusicApp\MusicApp\bin\Debug\System.Buffers.dll
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\MusicApp\MusicApp\MusicApp\MusicApp\bin\Debug\System.Memory.dll
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\MusicApp\MusicApp\MusicApp\MusicApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\MusicApp\MusicApp\MusicApp\MusicApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\MusicApp\MusicApp\MusicApp\MusicApp\bin\Debug\System.Security.AccessControl.dll
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\MusicApp\MusicApp\MusicApp\MusicApp\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\MusicApp\MusicApp\MusicApp\MusicApp\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\MusicApp\MusicApp\MusicApp\MusicApp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\MusicApp\MusicApp\MusicApp\MusicApp\bin\Debug\System.Text.Json.dll
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\MusicApp\MusicApp\MusicApp\MusicApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\MusicApp\MusicApp\MusicApp\MusicApp\bin\Debug\System.ValueTuple.dll
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\MusicApp\MusicApp\MusicApp\MusicApp\bin\Debug\VisioForge.Core.dll
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\MusicApp\MusicApp\MusicApp\MusicApp\bin\Debug\VisioForge.Libs.dll
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\MusicApp\MusicApp\MusicApp\MusicApp\bin\Debug\VisioForge.MediaFramework.dll
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\MusicApp\MusicApp\MusicApp\MusicApp\bin\Debug\VisioForge.Types.dll
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\MusicApp\MusicApp\MusicApp\MusicApp\bin\Debug\YoutubeExplode.dll
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\MusicApp\MusicApp\MusicApp\MusicApp\bin\Debug\AngleSharp.xml
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\MusicApp\MusicApp\MusicApp\MusicApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\MusicApp\MusicApp\MusicApp\MusicApp\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\MusicApp\MusicApp\MusicApp\MusicApp\bin\Debug\NAudio.xml
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\MusicApp\MusicApp\MusicApp\MusicApp\bin\Debug\System.Buffers.xml
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\MusicApp\MusicApp\MusicApp\MusicApp\bin\Debug\System.Memory.xml
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\MusicApp\MusicApp\MusicApp\MusicApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\MusicApp\MusicApp\MusicApp\MusicApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\MusicApp\MusicApp\MusicApp\MusicApp\bin\Debug\System.Security.AccessControl.xml
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\MusicApp\MusicApp\MusicApp\MusicApp\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\MusicApp\MusicApp\MusicApp\MusicApp\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\MusicApp\MusicApp\MusicApp\MusicApp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\MusicApp\MusicApp\MusicApp\MusicApp\bin\Debug\System.Text.Json.xml
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\MusicApp\MusicApp\MusicApp\MusicApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\MusicApp\MusicApp\MusicApp\MusicApp\bin\Debug\System.ValueTuple.xml
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\MusicApp\MusicApp\MusicApp\MusicApp\bin\Debug\YoutubeExplode.xml
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\MusicApp\MusicApp\MusicApp\MusicApp\obj\Debug\MusicApp.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\MusicApp\MusicApp\MusicApp\MusicApp\obj\Debug\MusicApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\MusicApp\MusicApp\MusicApp\MusicApp\obj\Debug\MusicApp.AdminMenu.resources
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\MusicApp\MusicApp\MusicApp\MusicApp\obj\Debug\MusicApp.Login.resources
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\MusicApp\MusicApp\MusicApp\MusicApp\obj\Debug\MusicApp.Properties.Resources.resources
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\MusicApp\MusicApp\MusicApp\MusicApp\obj\Debug\MusicApp.Register.resources
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\MusicApp\MusicApp\MusicApp\MusicApp\obj\Debug\MusicApp.RegisterControl.resources
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\MusicApp\MusicApp\MusicApp\MusicApp\obj\Debug\MusicApp.SongsAdmin.resources
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\MusicApp\MusicApp\MusicApp\MusicApp\obj\Debug\MusicApp.UsersAdmin.resources
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\MusicApp\MusicApp\MusicApp\MusicApp\obj\Debug\MusicApp.csproj.GenerateResource.cache
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\MusicApp\MusicApp\MusicApp\MusicApp\obj\Debug\MusicApp.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\MusicApp\MusicApp\MusicApp\MusicApp\obj\Debug\MusicApp.csproj.CopyComplete
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\MusicApp\MusicApp\MusicApp\MusicApp\obj\Debug\MusicApp.exe
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\MusicApp\MusicApp\MusicApp\MusicApp\obj\Debug\MusicApp.pdb
